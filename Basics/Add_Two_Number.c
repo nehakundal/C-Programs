@@ -4,7 +4,6 @@
 int main() {
     int a, b, sum = 0;
   
-  	// Read two numbers from the user
     printf("Enter two integers: ");
     scanf("%d %d", &a, &b);
 
